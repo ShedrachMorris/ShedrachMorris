@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shedrach Morris Uzoigwe</h1>
-<h3 align="center">A passionate Software Engineer(frontend) from Nigeria</h3>
+<h3 align="center">A passionate Software Engineer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shedrachmorris&label=Profile%20views&color=0e75b6&style=flat" alt="shedrachmorris" /> </p>
 
@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **E-commerce platform**
 
-- 🌱 I’m currently learning **docker, C, react native**
+- 🌱 I’m currently learning **flutter and fast api**
 
-- 💬 Ask me about **react, python, C++**
+- 💬 Ask me about **react, nestjs, C++**
 
 - 📫 How to reach me **shedrachuzo4190@gmail.com**
 
