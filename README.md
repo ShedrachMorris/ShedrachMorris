@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Shedrach Morris
 
-🚀 Full-Stack Developer  
+🚀 software engineer  
 💻 React • NestJS • Flutter • PostgreSQL  
-📍 <Your Location> | 📫 <your@email.com>
+📍 Lagos, Nigeria | 📫 shedrachuzo4190@gmail.com
 
 ---
 
@@ -43,8 +43,8 @@
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
   </a>
-  <a href="https://www.prisma.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/prismaio/prismaio-icon.svg" width="40" height="40"/>
+ <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
   </a>
 </p>
 
@@ -53,8 +53,8 @@
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
   </a>
-  <a href="https://swagger.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/swaggerio/swaggerio-icon.svg" width="40" height="40"/>
+  <a href="https://www.prisma.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="40" height="40"/>
   </a>
 </p>
 
@@ -67,16 +67,10 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShedrachMorris&show_icons=true&theme=default" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShedrachMorris&theme=default" height="150"/>
-</p>
 
 ---
 
 ## 🔗 Connect With Me
 - 💼 LinkedIn: <your-link>
 - 🌐 Portfolio: <your-website>
-- 📧 Email: <your@email.com>
-eadme-stats.vercel.app/api?username=shedrachmorris&show_icons=true&locale=en" alt="shedrachmorris" /></p>
+- 📧 Email: shedrachuzo4190@gmail.com /></p>
